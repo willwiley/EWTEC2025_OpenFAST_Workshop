@@ -5,6 +5,8 @@ Precompiled OpenFAST for windows: https://github.com/OpenFAST/openfast/releases/
 OpenFAST documentation: https://openfast.readthedocs.io/en/main/
 OpenFAST examples (used for regression tests): https://github.com/OpenFAST/r-test/
 OpenFAST example reference floating marine turbine: https://github.com/OpenFAST/r-test/tree/main/glue-codes/openfast/MHK_RM1_Floating
+Airfoil extrapolation and 3D corrections: https://www.nrel.gov/wind/nwtc/airfoil-prep
+Mode shape generation for blade and tower: https://www.nrel.gov/wind/nwtc/bmodes
 
 - 'openfast_mac': OpenFAST version 4.1.2 compiled for mac
 - 'aerodyn_driver_mac': AeroDyn driver version 4.1.2 compiled for mac
